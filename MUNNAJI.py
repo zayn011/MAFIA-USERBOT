@@ -17,4 +17,4 @@ async def yashraid(event):
         await MUNNAgalaxy.send_message(kek, "Tum skull hum insaan hum jhopdiwale skull Tum bhosiwale")
         await MUNNAgalaxy.send_message(kek, "skull tumara to kamal hai hamara baap bante ho tum aur naam aata hai humara.")
         await MUNNAgalaxy.send_message(kek, "Permanent hai pakka, skull tera baap chaka")
-        await MUNNAgalaxy.send_message(kek, "Phuloo Ka Raja skull Gulaab Kaato me Rehta hai Jeewan ka Nirmata jaato me rehta hai😂"
+        await MUNNAgalaxy.send_message(kek, "Phuloo Ka Raja skull Gulaab Kaato me Rehta hai Jeewan ka Nirmata jaato me rehta hai😂")
